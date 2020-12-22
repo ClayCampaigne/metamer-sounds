@@ -8,7 +8,9 @@ and map the sum(s) of these signals simultaneously to a visual (color) represent
 
 I ripped off https://scipython.com/blog/converting-a-spectrum-to-a-colour/ for the color part, and I ripped off https://ipywidgets.readthedocs.io/en/stable/examples/Beat%20Frequencies.html for the sound (and widget).
 
-I'm currently stuck, trying to undo normalization of total intensity for the colors. Help!
+The second draft of the interactive widget in the notebook uses `python-colormath` to get dark colors, which
+I couldn't figure out with `colour-science`. This seems to work well enough, although
+I still need to do some calibration.
 
 Note: the color is in wavelength (nM), while the sound is in Herz, slightly scaled. 
 This is dumb because wavelength is proportional to the inverse of frequency. 
