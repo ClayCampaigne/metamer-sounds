@@ -16,3 +16,5 @@ This is dumb because wavelength is proportional to the inverse of frequency.
 The other major problem is that it is not truly interactive. It creates a static autoplay sound and a static matplotlib plot, 
 so the interaction is extremely janky. But updating to bqplot would take a lot of work, and for the audio portion, that
 seems even more complicated. I have been unable to install pyaudio because of OSX C++ compiler issues, I guess.
+
+Try running the notebook. Install packages until it works :)
