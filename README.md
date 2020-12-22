@@ -10,7 +10,11 @@ I ripped off https://scipython.com/blog/converting-a-spectrum-to-a-colour/ for t
 
 The second draft of the interactive widget in the notebook uses `python-colormath` to get dark colors, which
 I couldn't figure out with `colour-science`. This seems to work well enough, although
-I still need to do some calibration.
+I still need to do some calibration. The major problem to be addressed here is that is that the 
+"clamping" of RGB values to project onto the RGB gamut seems to make it hard to get 
+everything bright at the same time. E.g., getting one display with the three primary colors, including
+a bright yellow in the red-green intersection. Or just a nice white.
+
 
 Note: the color is in wavelength (nM), while the sound is in Herz, slightly scaled. 
 This is dumb because wavelength is proportional to the inverse of frequency. 
