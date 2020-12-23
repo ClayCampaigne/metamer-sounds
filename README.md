@@ -11,6 +11,7 @@ But if you mapped the respective spectral distributions to tones, these metamers
 (Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. People can "forget" which section of the cochlea is activated by a reference sound, but they can't forget the name for a relative activation state of the three cone types.)
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
+Light wavelengths are in nM, and sound is in...1000-Herz, for the moment.
 The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation. 
 For the colors, we also show the components and the pairwise sums, which are computed with `python-colormath`
 and displayed in a Venn diagram plotted with `matplotlib-venn`. 
