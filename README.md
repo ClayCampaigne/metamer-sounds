@@ -23,4 +23,5 @@ The other major problem is that it is not truly interactive. It creates a static
 so the interaction is extremely janky. But updating to bqplot would take a lot of work, and for the audio portion, that
 seems even more complicated. I have been unable to install pyaudio because of OSX C++ compiler issues, I guess.
 
-Try running the notebook. Install packages until it works :)
+Click this link, wait for the binder site to launch, then open the "tricolor_venn_colormath.ipynb" notebook (not sure why I can't get a link directly to the notebook working. Click the "kernel" menu, and select "restart and run all". Then you can adjust the frequency/wavelength and amplitude sliders in the widget at the bottom.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
