@@ -7,7 +7,9 @@ That means that there are, like, infinitely times more tones than colors.
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation. 
-For the colors, we also show the components and the pairwise sums, using a Venn diagram plotted with `matplotlib-venn`
+For the colors, we also show the components and the pairwise sums, which are computed with `python-colormath`
+and displayed in a Venn diagram plotted with `matplotlib-venn`. 
+
 
 The nature of interaction is quite janky, but c'est la vie. 
 Every slider event makes a static matplotlib-venn plot, together with the fresh creation of an autoplay IPython Display Audio widget whenever you move a slider.
