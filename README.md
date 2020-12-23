@@ -8,9 +8,9 @@ In any case this is a widget with sliders that independently control the wavelen
 and map the sum(s) of these signals simultaneously to a visual (color) representation and an aural (tone) representation.
 
 The nature of interaction is quite janky, but c'est la vie. 
-(Static matplotlib, together with the fresh creation of an autoplay IPython Display Audio widget whenever you move a slider.
-BQPlot would be preferable, but that gets complicated, 
-and in particular one would need to re-implement the matplotlib-venn packge that I rely on for the plots.
+Every slider event makes a static matplotlib-venn plot, together with the fresh creation of an autoplay IPython Display Audio widget whenever you move a slider.
+BQPlot would be preferable, but that gets complicated, and in particular one would need to re-implement the matplotlib-venn packge that I rely on for the plots.
+And making the sound stuff properly interacive seems at least as complicated.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
 
