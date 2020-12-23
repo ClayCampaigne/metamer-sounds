@@ -5,7 +5,7 @@ Color space is 3-dimensional, but tone is essentially infinite-dimensional, due 
 That means that there are, like, infinitely times more tones than colors. 
 There is pure, monochromatic yellow of wavelength approximately 590 nm, and there is yellow created by mixing green and red light. 
 These look identical (at least holding ambient light and surrounding stimuli constant). 
-But if you mapped the respective spectral distributions to tones, these metamers would sound different. 
+But if you map the respective spectral distributions to tones, these metamers would sound different. 
 (The yellow part of the EM spectrum is exceptionally narrow though, as far as I can tell.)
 
 Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. 
