@@ -4,7 +4,7 @@ Metamers are different EM (light) spectral power distributions with the same per
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, because of the respective structures of the sensory organs.
 (Another notable difference is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy.)
 
-In any case this is a widget with sliders that independently control the wavelength and amplitude of several pure sinusoidal signals.
+In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation.
 
 The nature of interaction is quite janky, but c'est la vie. 
