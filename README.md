@@ -8,7 +8,8 @@ These look identical (at least holding ambient light and surrounding stimuli con
 But if you mapped the respective spectral distributions to tones, these metamers would sound different. 
 (The yellow part of the EM spectrum is exceptionally narrow though, as far as I can tell.)
 
-(Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. People can "forget" which section of the cochlea is activated by a reference sound, but they can't forget the name for a relative activation state of the three cone types.)
+(Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. 
+People can be incapable of learning the mapping between 440 Hz and the label "middle A," but they can easily learn the mapping between a color (wavelength) and its name or concept.
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 Light wavelengths are in nM, and sound is in...1000-Herz, for the moment.
