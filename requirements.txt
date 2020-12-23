@@ -210,7 +210,7 @@ PyQt5-sip==4.19.15
 PyQtWebEngine==5.12.1
 pyrsistent==0.17.3
 PySocks==1.7.1
-pytest==0.0.0
+# pytest==0.0.0
 python-dateutil==2.8.1
 python-jsonrpc-server==0.3.4
 python-language-server==0.31.9
