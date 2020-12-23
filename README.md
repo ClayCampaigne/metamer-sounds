@@ -2,7 +2,7 @@
 This is a hobby project motivated by my dream of "auralizing," or "hearing," the difference between metamers. 
 Metamers are different EM (light) spectral power distributions with the same perceived color.
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, because of the respective structures of the sensory organs.
-That means that there are, like, infinitely times more tones than colors.
+That means that there are, like, infinitely times more tones than colors. Really a lot.
 (Another notable difference is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy.)
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
