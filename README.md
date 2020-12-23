@@ -9,7 +9,7 @@ But if you mapped the respective spectral distributions to tones, these metamers
 (The yellow part of the EM spectrum is exceptionally narrow though, as far as I can tell.)
 
 Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. 
-People can be incapable of learning the mapping between 440 Hz and the label "middle A," but they can easily learn (and neve forget) the mapping between a color (wavelength) and its name or concept.
+People can be incapable of learning the mapping between 440 Hz and the label "middle A," but they can easily learn (and never forget) the mapping between a color (wavelength) and its name or concept.
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 Light wavelengths are in nM, and sound is in...1000-Herz, for the moment.
