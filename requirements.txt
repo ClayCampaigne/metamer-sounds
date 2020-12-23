@@ -51,7 +51,7 @@ colorama==0.4.4
 colormath==3.0.0
 colour-science==0.3.16
 # conda-package-handling==1.7.2
-conda-verify==3.4.2
+# conda-verify==3.4.2
 contextlib2==0.6.0.post1
 cryptography==3.1.1
 # cx-Oracle==7.1.2
