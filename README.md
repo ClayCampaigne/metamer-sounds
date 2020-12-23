@@ -1,9 +1,9 @@
 # metamer_sounds
-This project is a hobby project to "auralize," or "hear," the difference between metamers. 
+This project is a hobby project inspired by my dream of to "auralizing," or "hearing," the difference between metamers. 
 Metamers are different EM (light) spectral power distributions with the same perceived color.
 Color space is 3-dimensional, but tone is essentially infinite-dimensional because of the respective structures of the sensory organs.
 (Another notable difference is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy.)
-So I want to make an app with sliders that independently control the wavelength and amplitude of several pure sinusoidal signals,
+The product is a widget with sliders that independently control the wavelength and amplitude of several pure sinusoidal signals,
 and map the sum(s) of these signals simultaneously to a visual (color) representation and an aural (tone) representation.
 
 The nature of interaction is quite janky, but c'est la vie. 
