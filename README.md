@@ -12,9 +12,9 @@ and displayed in a Venn diagram plotted with `matplotlib-venn`.
 
 
 The nature of interaction is quite janky, but c'est la vie. 
-Every slider event makes a static matplotlib-venn plot, together with the fresh creation of an autoplay IPython Display Audio widget whenever you move a slider.
+Every slider event makes a static matplotlib-venn plot, and also freshly creates an autoplaying IPython Display Audio widget.
 BQPlot would be preferable, but that gets complicated, and in particular one would need to re-implement the matplotlib-venn packge that I rely on for the plots.
-And making the sound stuff properly interacive seems at least as complicated.
+Making the sound stuff properly interacive seems at least as complicated.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
 
