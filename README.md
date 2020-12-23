@@ -6,7 +6,8 @@ That means that there are, like, infinitely times more tones than colors.
 (Another notable difference is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy.)
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
-The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation.
+The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation. 
+For the colors, we also show the components and the pairwise sums, using a Venn diagram plotted with `matplotlib-venn`
 
 The nature of interaction is quite janky, but c'est la vie. 
 Every slider event makes a static matplotlib-venn plot, together with the fresh creation of an autoplay IPython Display Audio widget whenever you move a slider.
