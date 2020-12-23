@@ -23,4 +23,4 @@ The other major problem is that it is not truly interactive. It creates a static
 so the interaction is extremely janky. But updating to bqplot would take a lot of work, and for the audio portion, that
 seems even more complicated. I have been unable to install pyaudio because of OSX C++ compiler issues, I guess.
 
-Try running the notebook. Install packages until it works :)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD?filepath=https%3A%2F%2Fgithub.com%2FClayCampaigne%2Fmetamer_sounds%2Fblob%2Fmaster%2Frequirements.txt)
