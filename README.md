@@ -4,10 +4,11 @@ Metamers are different EM (light) spectral power distributions with the same per
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, because of the respective structures of the sensory organs.
 That means that there are, like, infinitely times more tones than colors. 
 There is pure, monochromatic yellow of wavelength approximately 590 nm, and there is yellow created by mixing green and red light. 
-These look identical. But if you mapped the spectral components to pitches or pure tones, they would sound different. 
+These look identical (at least holding ambient light and surrounding stimuli constant). 
+But if you mapped the spectral components to pitches or pure tones, they would sound different. 
 (The yellow part of the EM spectrum is exceptionally narrow though, as far as I can tell.)
 
-(Another notable difference is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy.)
+(Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. People can "forget" which section of the cochlea is activated by a reference sound, but they can't forget the name for a relative activation state of the three cone types.)
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 The sum(s) of these signals are mapped simultaneously to a visual (color) representation and an aural (tone) representation. 
