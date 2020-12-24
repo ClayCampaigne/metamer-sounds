@@ -8,17 +8,17 @@ Click the "kernel" menu, and select "restart and run all". Then you can adjust t
 To re-initialize the widget to the starting state, you can click the code cell above the widget display, and type command (or control) enter.
 
 This is a hobby project motivated by my dream of "auralizing," or "hearing," the difference between metamers. 
-(I've always found the dimensionality and structure of perception and experience to be interesting.)
+(I've always found the dimensionality and structure of perception to be interesting.)
 Metamers are distinct EM (light) spectral power distributions with the same perceived color.
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, due to the respective structures of the sensory organs.
 That means that there are, like, infinitely times more tones than colors. 
 There is pure, monochromatic yellow of wavelength approximately 590 nm, and there is yellow created by mixing green and red light. 
-These look identical (at least holding ambient light and surrounding stimuli constant). 
-But if you map the respective spectral distributions to tones, these metamers would sound different. 
+These look identical, at least holding ambient light and surrounding stimuli constant. 
+But if you map the respective spectral distributions to tones, the metamers would sound different. 
 (The yellow part of the EM spectrum is exceptionally narrow though, as far as I can tell.)
 
 Another notable difference between color and tone space is that there is not really a question of "perfect color" perception, as there is with perfect pitch, except perhaps in philosophy. 
-People can be incapable of learning the mapping between 440 Hz and the label "middle A," but they can easily learn (and never forget) the mapping between a color (wavelength) and its name or concept.
+People can be incapable of learning the mapping between a sound signal at 440 Hz and the concept "middle A," but they can easily learn (and never forget) the mapping between a wavelength of 700nM and the concept "red."
 
 In any case a widget is provided with sliders that independently control the wavelength and amplitude of three pure sinusoidal signals.
 Light wavelengths are in nM, and sound is in...1000-Herz, for the moment.
