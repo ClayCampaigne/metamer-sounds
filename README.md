@@ -1,6 +1,6 @@
 # metamer_sounds
 To use:
-click the binder link below, wait for the binder site to launch, then open the "metamer_sounds.ipynb" notebook (not sure why I can't get a link directly to the notebook working).
+click the binder link below from a computer (not phone or tablet) web browser, wait for the binder site to launch, then open the "metamer_sounds.ipynb" notebook.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
 
