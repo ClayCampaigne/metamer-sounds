@@ -1,6 +1,6 @@
 # metamer_sounds
 To use:
-click the binder link below from a computer (not phone or tablet) web browser, wait for the binder site to launch, then open the "metamer_sounds.ipynb" notebook.
+click the binder link below from a computer (not phone or tablet) web browser, wait for the binder site to launch, then open the "metamer_sounds.ipynb" notebook. The "scientific scaling" version attempts to create a linear bijection between the full perceptible frequency domains, whereas the main notebook sets the correspondence between light and sound frequencies in a way that sounds "reasonable." 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
 
