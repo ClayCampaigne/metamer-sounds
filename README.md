@@ -11,7 +11,7 @@ This is a hobby project motivated by my dream of "auralizing," or "hearing," the
 (I've always found the dimensionality and structure of perception to be interesting.)
 Metamers are distinct EM (light) spectral power distributions with the same perceived color.
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, due to the respective structures of the sensory organs.
-That means that there are, like, infinitely times more tones than colors. 
+That means that there are, like, infinitely times more tones than colors, man. 
 There is pure, monochromatic yellow of wavelength approximately 590 nm, and there is yellow created by mixing green and red light. 
 These look identical, at least holding ambient light and surrounding stimuli constant. 
 But if you map the respective spectral distributions to tones, the metamers would sound different. 
