@@ -8,7 +8,6 @@ Click the "kernel" menu, and select "restart and run all". Then you can adjust t
 To re-initialize the widget to the starting state, you can click the code cell above the widget display, and type command (or control) enter.
 
 This is a hobby project motivated by my dream of "auralizing," or "hearing," the difference between metamers. 
-(I've always found the dimensionality and structure of perception to be interesting.)
 Metamers are distinct EM (light) spectral power distributions with the same perceived color.
 Color space is 3-dimensional, but tone is essentially infinite-dimensional, due to the respective structures of the sensory organs.
 That means that there are, like, infinitely times more tones than colors, man. 
