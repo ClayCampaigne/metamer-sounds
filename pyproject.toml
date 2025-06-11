@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "metamer-sounds"
+version = "0.1.0"
+description = "Interactive visualization and auralization of color metamers"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    {name = "Clay Campaigne"}
+]
+dependencies = [
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+    "ipython>=8.0.0",
+    "ipywidgets>=8.0.0",
+    "matplotlib>=3.5.0",
+    "matplotlib-venn>=0.11.6",
+    "numpy>=1.21.0",
+    "pandas>=1.5.0",
+    "colormath>=3.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/ClayCampaigne/metamer_sounds"
+Repository = "https://github.com/ClayCampaigne/metamer_sounds.git"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["metamer_sounds*"]

@@ -1,8 +1,8 @@
 # metamer_sounds
 To use:
-click the binder link below from a computer (not phone or tablet) web browser, wait for the binder site to launch, then open the "metamer_sounds.ipynb" notebook. The "scientific scaling" version attempts to create an affine increasing bijection between the full perceptible frequency domains, whereas the main notebook sets the correspondence between light and sound frequencies in a way that sounds "reasonable," and I think the sign of the slope is wrong in that case. 
+Click the Binder link below from a computer (not phone or tablet) web browser to launch directly into the interactive notebook. The "scientific scaling" version attempts to create an affine increasing bijection between the full perceptible frequency domains, whereas the simple scaling notebook sets the correspondence between light and sound frequencies in a way that sounds "reasonable."
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD?filepath=metamer_sounds_simple_scaling.ipynb)
 
 Click the "kernel" menu, and select "restart and run all". Then you can adjust the wavelength and amplitude sliders in the widget at the bottom.
 To re-initialize the widget to the starting state, you can click the code cell above the widget display, and type command (or control) enter.
