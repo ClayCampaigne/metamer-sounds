@@ -105,6 +105,20 @@ def desired_pitch_from_wvl_light(wvl_light: float, m: float = m_scientific, b: f
     return desired_pitch
 
 
+def tritone_metamers_scientific(wvl_1: float = 460, wvl_2: float = 530, wvl_3: float = 610.60, 
+                               a1: float = 0.75, a2: float = 0.85, a3: float = 0.85,
+                               max_time: float = 15, rate: int = 8000) -> None:
+    """Generate audio and visual representation using scientific wavelength-to-frequency mapping"""
+    return tritone_metamers_cm(wvl_1, wvl_2, wvl_3, a1, a2, a3, "scientific", max_time, rate)
+
+
+def tritone_metamers_simple(wvl_1: float = 460, wvl_2: float = 530, wvl_3: float = 610.60, 
+                           a1: float = 0.75, a2: float = 0.85, a3: float = 0.85,
+                           max_time: float = 15, rate: int = 8000) -> None:
+    """Generate audio and visual representation using simple linear scaling"""
+    return tritone_metamers_cm(wvl_1, wvl_2, wvl_3, a1, a2, a3, "simple", max_time, rate)
+
+
 def tritone_metamers_cm(wvl_1: float = 460, wvl_2: float = 530, wvl_3: float = 610.60, 
                        a1: float = 0.75, a2: float = 0.85, a3: float = 0.85,
                        scaling: str = "scientific", max_time: float = 15, rate: int = 8000) -> None:
