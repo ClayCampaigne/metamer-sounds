@@ -1,4 +1,4 @@
-# metamer_sounds
+# Metamer Sounds
 To use:
 Click the Binder link below from a computer (not phone or tablet) web browser to launch directly into the interactive notebook. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons in the interface.
 
