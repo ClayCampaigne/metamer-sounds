@@ -2,7 +2,7 @@
 To use:
 Click the Binder link below from a computer (not phone or tablet) web browser to launch the interactive app. The interface will load automatically with controls for adjusting wavelength and amplitude sliders. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD?urlpath=voila%2Frender%2Fmetamer_sounds.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer-sounds/HEAD?urlpath=voila%2Frender%2Fmetamer_sounds.ipynb)
 
 The app runs in Voila, which provides a clean, user-friendly interface without code cells. Simply adjust the sliders to explore different color-sound combinations.
 
