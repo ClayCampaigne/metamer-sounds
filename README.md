@@ -1,11 +1,10 @@
 # Metamer Sounds
 To use:
-Click the Binder link below from a computer (not phone or tablet) web browser to launch directly into the interactive notebook. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons in the interface.
+Click the Binder link below from a computer (not phone or tablet) web browser to launch the interactive app. The interface will load automatically with controls for adjusting wavelength and amplitude sliders. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD?filepath=metamer_sounds.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer_sounds/HEAD?urlpath=voila%2Frender%2Fmetamer_sounds.ipynb)
 
-Click the "kernel" menu, and select "restart and run all". Then you can adjust the wavelength and amplitude sliders in the widget at the bottom.
-To re-initialize the widget to the starting state, you can click the code cell above the widget display, and type command (or control) enter.
+The app runs in Voila, which provides a clean, user-friendly interface without code cells. Simply adjust the sliders to explore different color-sound combinations.
 
 This is a hobby project motivated by my dream of "auralizing," or "hearing," the difference between metamers. 
 Metamers are distinct EM (light) spectral power distributions with the same perceived color.
