@@ -1,6 +1,6 @@
 # Metamer Sounds
 To use:
-Click the Binder link below from a computer (not phone or tablet) web browser to launch the interactive app. The interface will load automatically with controls for adjusting wavelength and amplitude sliders. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons.
+Click the Binder link below to launch the interactive app (may not work on mobile browser). The interface will load automatically with controls for adjusting wavelength and amplitude sliders. You can choose between scientific scaling (physics-based wavelength mapping) or simple scaling (optimized for pleasant audio) using the radio buttons.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ClayCampaigne/metamer-sounds/HEAD?urlpath=voila%2Frender%2Fmetamer_sounds.ipynb)
 
